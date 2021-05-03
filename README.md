@@ -48,7 +48,7 @@ This project includes the following files:
 - requirements.txt                        - all of project's dependencies
 - Training_Beautif.ipynb                  - a script for data preprocessing, training and saving the model
 - Predictions_Beautif.ipynb               - a script for making the predictions of the used model
-- utils.py                                - a script that contains all the helper functions
+- utils.py                                - a script that contains all helper functions
 - README.md                               - documentation and summary of the results
 ```
 
@@ -56,7 +56,7 @@ This project includes the following files:
 
 The dataset consists of **5 000 images**, or around 1 000 per category. First, the data are pre-processed by converting the images to **RGB color space**, **image normalization to 0 - 1 range** is applied and  the images are resized to **224x224 pixels**. Next, the dataset is divided into **80% training** and **20% validation data**. Independent dataset of 50 images was provided and processed in the same way in order to test the model. Additionally we used data augmentation while training the models.
 
-Dataset is available on the following link: [Link to Dataset](https://drive.google.com/drive/folders/196rcEOVr6iPRvMgATnjk1DiqzewQs7qH)
+Dataset is available on the following link: [Link](https://drive.google.com/drive/folders/196rcEOVr6iPRvMgATnjk1DiqzewQs7qH)
 
 
 #### Dataset distribution and Train-Test split
@@ -73,7 +73,9 @@ Dataset is available on the following link: [Link to Dataset](https://drive.goog
 
 ## Best model info
 
-To solve the problem we explore the applicability of transfer learning, by training a classifier on features extracted by a pre-trained deep convolutional neural network. *MobileNet* based features with NN classifier, is able to achieve best average testing and validation accuracy rate of **95,3%**, for the shortest amount of time. MobileNet is commonly used for mobile and embedded vision applications because of its fewer number of parameters and high classification accuracy.
+To solve the problem we explore the applicability of transfer learning, by training a classifier on features extracted by a pre-trained deep convolutional neural network. *MobileNet* based features with NN classifier, is able to achieve best average testing and validation accuracy rate of **95,3%**, for the shortest amount of time. MobileNet is commonly used for mobile and embedded vision applications because of its fewer number of parameters and high classification accuracy. 
+
+Best model is available on the following link: [Link](https://drive.google.com/drive/folders/12PRWo9QPoiaG33PbzMpp1u6EyfYd0PVQ)
 
 ## Final architecture
 
