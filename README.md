@@ -113,4 +113,10 @@ Below is a table with the results:
 The project can be further extended to more images, to tune more of the available parameters of the models, try different configurations for the top classifier etc.
 
 
+Team members:
+- [Jasmina Radonchikj](https://github.com/Jasmina991)
+- [Stefan Serafimoski](https://github.com/stefan1618)
+- [Ana Nikolikj](https://github.com/anan042)
+- [Dejan Gavrilovski](https://github.com/DejanGavrilo)
+
 
