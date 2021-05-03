@@ -104,7 +104,7 @@ Below is a table with the results:
 |Model| Accuracy|
 |-----|---------|
 |Xception|0.96|
-|MobileNet|0.95|
+|**MobileNet**|**0.95**|
 |InceptionV3|0.93|
 |VGG16|0.92|
 |VGG19|0.89|
