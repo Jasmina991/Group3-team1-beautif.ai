@@ -117,6 +117,6 @@ Team members:
 - [Jasmina Radonchikj](https://github.com/Jasmina991)
 - [Stefan Serafimoski](https://github.com/stefan1618)
 - [Ana Nikolikj](https://github.com/anan042)
-- [Dejan Gavrilovski](https://github.com/DejanGavrilo)
+
 
 
